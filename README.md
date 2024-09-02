@@ -1,7 +1,7 @@
 <h1>AlexCTF</h1>
 
 <h3>Objective</h3>
-The aim of to get the hidden flag. We are provided with a .pcap file.
+The aim of the project is to get the hidden flag. We are provided with a .pcap file.
 <br /> <br />
 <h3>Skills Learned</h3>
 ● Volatility tool <br />
